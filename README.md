@@ -1,0 +1,2 @@
+# haskellfoolishness
+haskell stuff
